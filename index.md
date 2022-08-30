@@ -8,16 +8,18 @@ meetup-group:
 
 ---
 ## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 ## FAQ
+
+* What are the shared services that the Foundation provides to chapters for free?
+- Meetup Pro Group
+- Zoom Shared account with Google Group for the Leader
+- Google Group -Chapter Mailing list
+ 
+* What are shared services does the Foundation offer all chapter and how do I request them?
+ Meetup Group Pro and Shared Zoom account -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
+
 
 * Where can ALL the approved OWASP Policies be found? 
   All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
@@ -25,9 +27,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 * Where is the OWASP Foundation's financial information? All of the Foundation's financial information is posted for transparency on the [Finance page](https://owasp.org/finance/) The [2022 Approved Budget](https://owasp.org/www-staff/budget/2022) can be found on the OWASP website finance page. 
 
 * Where can OWASP's current financial statements? 
-The OWASP Board meeting agenda/minutues is open to the public as well as posted on the [OWASP wesbite/Global Board page](https://owasp.org/www-board/)for anyone to read. OWASP outsources all accounting to Virtual  Click on any months's agenda/minutes and
-* What are shared services does the Foundation offer all chapter and how do I request them?
- Meetup Group Pro and Shared Zoom account -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
+  The OWASP Board meeting agenda/minutues is open to the public as well as posted on the [OWASP wesbite/Global Board page](https://owasp.org/www-board/)for anyone to read. OWASP outsources all accounting to Virtual. Click on any months's agenda/minutes and
+
 
 * Are chapters required to hold events? 
   No, chapters are only required to hold 3 meeting activites, in 12 months. Meetings are informal repeatable gatherings of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction, such as sharing information or reaching agreemeent. Meetings may occur face-to-face or virtually.
