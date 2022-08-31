@@ -8,6 +8,7 @@ meetup-group:
 
 ---
 ## Welcome to the OWASP Chapter Information page
+As a nonprofit organization that operates at a global level with volunteers and employing a small staff for the Foundation that is funded by donations. All information and answers are posted on the [OWASP website](https://owasp.org/) for transparency and ease to access.    
 
 ## FAQ
 
