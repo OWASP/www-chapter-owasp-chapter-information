@@ -7,10 +7,13 @@ region: North America
 meetup-group:
 
 ---
-## Welcome
+## Welcome to the OWASP Chapter 
 
 
 ## FAQ
+
+* **Where are all the approved OWASP Policies leaders are to follow?** 
+  All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
 
 * **What are the shared services the Foundation provides to chapters for free?**
   - Meetup Pro Group
@@ -19,9 +22,6 @@ meetup-group:
  
 * **How do leaders request the shared services the Foundation offers?**
   Please enter a ticket for each shared service -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
-
-* **Where are all the approved OWASP Policies?** 
-  All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
    
 * **Where is the OWASP Foundation's annual financial information?** All of the Foundation's financial information is posted for transparency on the [Finance page](https://owasp.org/finance/) The [2022 Approved Budget](https://owasp.org/www-staff/budget/2022) can be found on the OWASP website finance page. 
 
