@@ -21,7 +21,7 @@ Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, et
 
 * **Where are all the approved OWASP Policies leaders are to follow?** 
   All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
-* **What policy has the requirement to follow to keep a chapter active?** The [chapter policy](https://owasp.org/www-policy/) has the requirements that leaders agreed to follow to maintain an OWASP chapter in the submission of the request ticket. 
+* **What policy has the requirement to follow to keep a chapter active?** The [chapter policy](https://owasp.org/www-policy/);all voluneteer leaders agreed to the requirements for the chapter to reamin active and open in the submission of the request tickets.  
 <img width="307" alt="Requestacknowledgement" src="https://user-images.githubusercontent.com/56416431/187708563-60c1bab8-114c-49cd-b207-9816d9b1d9fa.png"> 
 
 * **What are the shared services the Foundation provides to chapters for free?**
