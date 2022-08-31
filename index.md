@@ -12,23 +12,24 @@ meetup-group:
 
 ## FAQ
 
-* What are the shared services that the Foundation provides to chapters for free?
+* What are the shared services the Foundation provides to chapters for free?
 - Meetup Pro Group
 - Zoom Shared account with Google Group for the Leader
 - Google Group -Chapter Mailing list
  
-* What are shared services does the Foundation offer all chapter and how do I request them?
- Meetup Group Pro and Shared Zoom account -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
+* How do leaders request the shared services the Foundation offers?
+ Please enter a ticket for each shared service -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
 
-
-* Where can ALL the approved OWASP Policies be found? 
+* Where are all the approved OWASP Policies? 
   All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
    
-* Where is the OWASP Foundation's financial information? All of the Foundation's financial information is posted for transparency on the [Finance page](https://owasp.org/finance/) The [2022 Approved Budget](https://owasp.org/www-staff/budget/2022) can be found on the OWASP website finance page. 
+* Where is the OWASP Foundation's annual financial information? All of the Foundation's financial information is posted for transparency on the [Finance page](https://owasp.org/finance/) The [2022 Approved Budget](https://owasp.org/www-staff/budget/2022) can be found on the OWASP website finance page. 
 
-* Where can OWASP's current financial statements? 
-  The OWASP Board meeting agenda/minutues is open to the public as well as posted on the [OWASP wesbite/Global Board page](https://owasp.org/www-board/)for anyone to read. OWASP outsources all accounting to Virtual. Click on any months's agenda/minutes and
-
+* Where are the current monthly OWASP's financial statements? 
+  The OWASP Board meeting agenda/minutues is open to the public as well as posted on the [OWASP wesbite/Global Board page](https://owasp.org/www-board/)for anyone to read. OWASP outsources all accounting to Virtual. Click on any months's agenda/minutes and then click on Financial package that months financial infomation.
+  
+* What is the 2022 approved Budget? 
+The approved budget can be found on the OWASP website [Finance page Annual Budgets](https://owasp.org/finance/) 
 
 * Are chapters required to hold events? 
   No, chapters are only required to hold 3 meeting activites, in 12 months. Meetings are informal repeatable gatherings of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction, such as sharing information or reaching agreemeent. Meetings may occur face-to-face or virtually.
