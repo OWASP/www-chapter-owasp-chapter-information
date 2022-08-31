@@ -7,7 +7,7 @@ region: North America
 meetup-group:
 
 ---
-## Welcome to the OWASP Chapter Information page
+### Welcome to the OWASP Chapter Information page
 As a nonprofit organization that operates at a global level with volunteers and employing a small staff for the Foundation that is funded by donations. All information and answers are posted on the [OWASP website](https://owasp.org/) for transparency and ease to access and read. The Foundation will communicate and send information and requests to the OWASP account that is provided to all leaders. This is the reason we ask that the owasp.org email is monitored or forwarded to an account that is monitored.  
 ### The [History](https://wiki.owasp.org/index.php/Chapter_Handbook/Chapter_4:_Chapter_Administration) and importance of the OWASP chapter page: 
 Maintaining the website is the most basic aspect of promoting an OWASP chapter. This is the place where people will be directed when looking at our list of meeting locations by geographic region: and one of the main ways for prospective members or sponsors to find and donate to a chapter.
@@ -15,7 +15,7 @@ Maintaining the website is the most basic aspect of promoting an OWASP chapter. 
 Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that the information is posted on your page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings. 
 
 Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an API that will allow you to mirror the meeting information you post on your MeetUp Pro account to your chapter page.(Meetup Pro API as of 2017).
-**Due to updates that Meetup made to their API. It is no longer mirroring information to chapter pages as of Janauary 2022. Notification was place on every chapter page.**
+**Due to updates that Meetup made to their API. It is no longer mirroring information to chapter pages as of Janauary 2022. A yellow notification was place on every chapter page.**
 
 ## FAQ
 
