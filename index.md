@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Chapter Information
 tags: example-tag
 region: North America
-meetup-group:
+meetup-group: owaspfoundation
 
 ---
 ### Welcome to the OWASP Chapter Information page
