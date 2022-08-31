@@ -15,6 +15,7 @@ Maintaining the website is the most basic aspect of promoting an OWASP chapter. 
 Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that the information is posted on your page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings. 
 
 Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an API that will allow you to mirror the meeting information you post on your MeetUp Pro account to your chapter page.(Meetup Pro API as of 2017).
+**Due to updates that Meetup made to their API. It is no longer mirroring information to chapter pages as of Janauary 2022. Notification was place on every chapter page.**
 
 ## FAQ
 
