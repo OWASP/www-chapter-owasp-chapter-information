@@ -14,6 +14,7 @@ meetup-group:
 
 * **Where are all the approved OWASP Policies leaders are to follow?** 
   All of OWASP's approved policies are publicly posted on the OWASP website for transparency for all to read.[OWASP POLICY page](https://owasp.org/www-policy/)
+* **What policy has the requirement to follow to keep a chapter active?** The chapter policy has the requirements that leaders agreed to follow to maintain an OWASP chapter in the submission of the request ticket.   
 
 * **What are the shared services the Foundation provides to chapters for free?**
   - Meetup Pro Group
