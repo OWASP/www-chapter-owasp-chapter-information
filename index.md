@@ -34,7 +34,7 @@ The approved budget can be found on the OWASP website [Finance page Annual Budge
 * **Are chapters required to hold events?** 
   No, chapters are only required to hold 3 meeting activites, in 12 month period. Meetings are informal repeatable gatherings of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction, such as sharing information or working on a project. Meetings may occur face-to-face or virtually.
   
-  
+  ![visiual difference of Meetings vs Events](assets/images/eventsand meetings.png)
   
 * **Events are now seperate from chapters and chapter meetings. See the OWASP Event policy on the procedures to follow if you would like to submit to hold an approved OWASP event. The [OWASP Events team](mailto:events@owasp.com) will review you request and respond.** 
 
