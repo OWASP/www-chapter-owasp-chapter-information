@@ -1,5 +1,5 @@
 ### [OWASP News](https://owasp.org/news/)
-* [August 2022 chapter slides]
+* [August 2022 chapter slides](https://github.com/OWASP/www-owasp-chapter-information/files/9462455/Aug2022_Chapter_Slides.pptx)
 
 ### Social Links for the Foundation:
 * [OWASP Foundation Meetup Group](https://www.meetup.com/owaspfoundation/)
