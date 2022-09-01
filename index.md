@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Chapter Information
-tags: example-tag
+tags: 
 region: North America
 meetup-group: owaspfoundation
 
@@ -32,6 +32,9 @@ Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, et
 * **How do leaders request the shared services the Foundation offers?**
   Please enter a ticket for each shared service -> Submit a [Contact Us - Chapter Support - Request for Shared Service ticket](https://owasporg.atlassian.net/servicedesk/customer/portals)
    
+* **Where can I find the OWASP® registered trademark logo and word mark usage guidlines?** The OWASP® word and logo are registered trademark of the OWASP Foundation. Leaders are allowed to use the trademark to promote OWASP chapter activity but do not have the authority to grant permission for    OWASP® 
+
+
 * **Where is the OWASP Foundation's annual financial information?** All of the Foundation's financial information is posted for transparency on the [Finance page](https://owasp.org/finance/) The [2022 Approved Budget](https://owasp.org/www-staff/budget/2022) can be found on the OWASP website finance page. 
 
 * **Where are the current monthly OWASP's financial statements?** 
